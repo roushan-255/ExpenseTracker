@@ -1,10 +1,6 @@
 
 
 <div align="center">
-  <a href="https://splitapp-rnjo.onrender.com/">
-    <img src="https://github.com/tuzup/SplitApp/blob/master/client/public/static/logo.png?raw=true" alt="Logo" width="80" height="80">
-  </a>
-
   <h2 align="center">ExpenseTracker!</h2>
 
   <p align="center">
