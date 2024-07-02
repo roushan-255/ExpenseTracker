@@ -5,7 +5,7 @@
     <img src="https://github.com/tuzup/SplitApp/blob/master/client/public/static/logo.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
-  <h2 align="center">SplitApp</h2>
+  <h2 align="center">ExpenseTracker!</h2>
 
   <p align="center">
     Build with the MERN stack (MongoDB, Express, React and NodeJS).
