@@ -8,10 +8,15 @@
     <a href="https://expensetracker-frontend-oozb.onrender.com">View Demo</a>
   </p>
 </div>
+
 ![Screenshot (2014)](https://github.com/roushan-255/ExpenseTracker/assets/97470945/a562e598-bc68-41a2-b9a2-e28637f8a34e)
+
 ![Screenshot (2017)](https://github.com/roushan-255/ExpenseTracker/assets/97470945/b0bf0285-19c4-4a67-9075-879e0ac27313)
+
 ![Screenshot (2015)](https://github.com/roushan-255/ExpenseTracker/assets/97470945/95ab3b27-8aa4-4002-ace5-aed4edb63277)
+
 ![Screenshot (2016)](https://github.com/roushan-255/ExpenseTracker/assets/97470945/1b959197-3d1b-45c0-9f7b-9d8c5b739fe2)
+
 ![Screenshot (2018)](https://github.com/roushan-255/ExpenseTracker/assets/97470945/a622945a-6ec7-47d4-9e8f-f5fa2c77d594)
 
 ## MERN Stack Group Expense Splitting Application
