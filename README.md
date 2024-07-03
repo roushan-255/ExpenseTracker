@@ -9,6 +9,9 @@
   </p>
 </div>
 
+![Screenshot (2019)](https://github.com/roushan-255/ExpenseTracker/assets/97470945/209fab5a-97f9-4f3a-9c8a-1e723229f11c)
+![Screenshot (2020)](https://github.com/roushan-255/ExpenseTracker/assets/97470945/4e963921-bf5c-4029-902a-e90875cb9256)
+
 ![Screenshot (2014)](https://github.com/roushan-255/ExpenseTracker/assets/97470945/a562e598-bc68-41a2-b9a2-e28637f8a34e)
 
 ![Screenshot (2017)](https://github.com/roushan-255/ExpenseTracker/assets/97470945/b0bf0285-19c4-4a67-9075-879e0ac27313)
